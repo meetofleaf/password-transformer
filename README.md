@@ -1,4 +1,4 @@
-# Fire Password Generator
+# Fire Password Generator 2018
 
 This code generates a "Fire Password" by modifying the user's input password using a set of predefined rules. The modified password is then concatenated with a randomly generated number to create the final password.
 
